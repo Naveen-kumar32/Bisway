@@ -31,7 +31,7 @@ export default function Section7() {
 							<div className="pb-100">
 								<div className="image tf-hover">
 									<div className="hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -217,7 +217,7 @@ Together, we build growth that lasts beyond the balance sheet.
 							<div >
 								<div className="image tf-hover tab-content current" id="tabs-1">
 									<div className="hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -227,7 +227,7 @@ Together, we build growth that lasts beyond the balance sheet.
 								</div>
 								<div className="image tf-hover tab-content" id="tabs-2">
 									<div className="hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -237,7 +237,7 @@ Together, we build growth that lasts beyond the balance sheet.
 								</div>
 								<div className="image tf-hover tab-content" id="tabs-3">
 									<div className="hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -247,7 +247,7 @@ Together, we build growth that lasts beyond the balance sheet.
 								</div>
 								<div className="image tf-hover tab-content" id="tabs-4">
 									<div className="hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

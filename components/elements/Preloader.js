@@ -11,7 +11,7 @@ export default function Preloader() {
 							<div className="loader">
 							</div>
 							<div className="icon">
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"

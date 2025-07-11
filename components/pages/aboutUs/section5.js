@@ -109,7 +109,7 @@ export default function Section5() {
 									<Link href="/#" className="mb-15">10m+ Customer</Link>
 									<ul className="list-author">
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -117,7 +117,7 @@ export default function Section5() {
 												src="/images/avatar/testimonial-author-1.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -125,7 +125,7 @@ export default function Section5() {
 												src="/images/avatar/customer-1.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -133,7 +133,7 @@ export default function Section5() {
 												src="/images/avatar/customer-3.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -141,7 +141,7 @@ export default function Section5() {
 												src="/images/avatar/customer-4.jpg" alt="" />
 										</li>
 										<li>
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -162,7 +162,7 @@ export default function Section5() {
 							<div className="col-lg-8">
 								<div className="image tf-hover">
 									<div className="hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -182,7 +182,7 @@ export default function Section5() {
 									<div className="swiper-wrapper">
 										<SwiperSlide>
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -192,7 +192,7 @@ export default function Section5() {
 										</SwiperSlide>
 										<SwiperSlide>
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -210,13 +210,13 @@ export default function Section5() {
 													<i className="icon-quote-left-saying-speech" />
 												</div>
 												<p className="say font-main-2 mb-30 text-clamp-5">
-													"Working with Saylo was a game changer for our company. Their
-													team quickly identif inefficiencies in our operations and
-													helped us streamline,"
+													We go beyond traditional services to act as your Virtual CFO and trusted strategic partner.
+At Bisways, your success is our commitment — guided by integrity, expertise, and results.
+
 												</p>
 												<div className="bot">
-													<Link href="/#" className="name fw-7"> Mendoza P. Alfredo </Link>
-													<p className="duty">CEO of Tech Solutions</p>
+													{/* <Link href="/#" className="name fw-7"> Mendoza P. Alfredo </Link> */}
+													{/* <p className="duty">CEO of Tech Solutions</p> */}
 												</div>
 											</div>
 										</SwiperSlide>
@@ -226,13 +226,13 @@ export default function Section5() {
 													<i className="icon-quote-left-saying-speech" />
 												</div>
 												<p className="say font-main-2 mb-30 text-clamp-5">
-													"Working with Saylo was a game changer for our company. Their
-													team quickly identif inefficiencies in our operations and
-													helped us streamline,"
+													We go beyond traditional services to act as your Virtual CFO and trusted strategic partner.
+At Bisways, your success is our commitment — guided by integrity, expertise, and results.
+
 												</p>
 												<div className="bot">
-													<Link href="/#" className="name fw-7"> Mendoza P. Alfredo </Link>
-													<p className="duty">CEO of Tech Solutions</p>
+													{/* <Link href="/#" className="name fw-7"> Mendoza P. Alfredo </Link> */}
+													{/* <p className="duty">CEO of Tech Solutions</p> */}
 												</div>
 											</div>
 										</SwiperSlide>

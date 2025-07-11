@@ -68,7 +68,7 @@ We help businesses adapt, grow, and lead in an ever-evolving digital landscape.
 							<div className="col-lg-6">
 								<div className="image-wrap">
 									<div className="image">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

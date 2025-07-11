@@ -51,9 +51,9 @@ export default function Section2() {
 											</Link>
 										</div>
 										<p className="text">
-											Our mission is to empower businesses by providing innovative, data-driven
-											solutions that drive growth, enhance efficiency, and create lasting value.
-											We are committed to delivering exceptional service and personalized.
+											At Bisways, we streamline operations, implement internal controls, and handle compliance,
+											 so you can focus on your business. We bring quality,
+											 integrity, and efficiency to every step.
 										</p>
 									</li>
 									<li className="wow fadeInUp" data-wow-delay="0s">
@@ -66,10 +66,9 @@ export default function Section2() {
 											</Link>
 										</div>
 										<p className="text">
-											Our vision is to be global leader delivering transformative to business
-											solutions that empower organizations to reach their full potential. We
-											strive to se standard for innovation, excellence, and customer success by
-											continuously
+											We envision a world where businesses soar by focusing on what they do best,
+											 while we transform their operations into seamless,
+											 compliant, and efficient systems that fuel growth and innovation.
 										</p>
 									</li>
 								</ul>
@@ -78,7 +77,7 @@ export default function Section2() {
 						<div className="col-lg-5">
 							<div className="image tf-hover">
 								<div className="hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -101,8 +100,8 @@ export default function Section2() {
 										</span>
 									</p>
 									<p className="text text-white">
-										Our commitment to integrity, collaboration, and impact-driven
-										aim to inspire and shape the future of business growth
+										Founded on principles of integrity, professionalism, and innovation,
+										 Bisways empowers business owners to focus on growth while we manage the complexities of finance and compliance
 									</p>
 								</div>
 								<div className="content-right">

@@ -25,7 +25,7 @@ export default function Section3() {
 							<div className="grid-layout-3">
 								<div className="card-service-2 tf-hover ">
 									<div className="image hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -51,7 +51,7 @@ export default function Section3() {
 								</div>
 								<div className="card-service-2 tf-hover ">
 									<div className="image hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -77,7 +77,7 @@ export default function Section3() {
 								</div>
 								<div className="card-service-2 tf-hover ">
 									<div className="image hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -104,7 +104,7 @@ export default function Section3() {
 								</div>
 								<div className="card-service-2 tf-hover ">
 									<div className="image hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -130,7 +130,7 @@ export default function Section3() {
 								</div>
 								<div className="card-service-2 tf-hover ">
 									<div className="image hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -157,7 +157,7 @@ export default function Section3() {
 								</div>
 								<div className="card-service-2 tf-hover ">
 									<div className="image hover-1 hover-14">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"

@@ -15,7 +15,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handle
 									<div className="header-left">
 										<div className="logo-site">
 											<Link href="/">
-												<Image
+												<img
 													width="139"
 													height="39"
 													id="logo_header" data-retina="./images/logo/logo-3@2x.png" src="/images/logo/logo-3.png" alt="" />
@@ -58,7 +58,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, handle
 										<div className="top">
 											<div className="logo">
 												<Link href="/" rel="home" className="main-logo">
-													<Image
+													<img
 														width="139"
 														height="39"
 														id="mobile-logo_header" alt="" src="/images/logo/logo-4.png" />

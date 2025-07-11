@@ -42,7 +42,7 @@ export default function Section6() {
 											<div className="top">
 												<div className="author-wrap">
 													<div className="avatar hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -70,7 +70,7 @@ export default function Section6() {
 											<div className="top">
 												<div className="author-wrap">
 													<div className="avatar hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -97,7 +97,7 @@ export default function Section6() {
 											<div className="top">
 												<div className="author-wrap">
 													<div className="avatar hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"
@@ -124,7 +124,7 @@ export default function Section6() {
 											<div className="top">
 												<div className="author-wrap">
 													<div className="avatar hover-1">
-														<Image
+														<img
 															width="0"
 															height="0"
 															sizes="100vw"

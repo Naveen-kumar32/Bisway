@@ -9,7 +9,7 @@ export default function Section1() {
 					<div className="row">
 						<div className="col-lg-5">
 							<div className="image">
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"
@@ -30,9 +30,12 @@ export default function Section1() {
 									</span>
 								</p>
 								<p className="text mb-50">
-									Our mission is to provide innovative, results-driven consulting solutions that
-									empower businesses to reach their full potential. We committed to delivering
-									personalized strategies that drive growth, enhance operational
+									At Bisways Consulting, we empower businesses with expert financial guidance and smart compliance solutions.
+<br/>
+									Our mission is to simplify growth through reliable Virtual CFO and advisory services.
+									We envision a future where every entrepreneur thrives with clarity, confidence, and control.
+									Together, we build sustainable success—one business at a time.
+
 								</p>
 								<ul className="list">
 									<li className="wow fadeInUp" data-wow-delay="0s">
@@ -45,9 +48,8 @@ export default function Section1() {
 											</p>
 										</div>
 										<p className="text">
-											Our mission is to empower businesses by providing innovative, data-driven
-											solutions that drive growth, enhance efficiency, and create lasting value.
-											We are committed to delivering exceptional service and personalized.
+											At Bisways, we streamline operations, implement internal controls, and handle compliance,
+											 so you can focus on your business. We bring quality, integrity, and efficiency to every step.
 										</p>
 									</li>
 									<li className="wow fadeInUp" data-wow-delay="0s">
@@ -60,9 +62,9 @@ export default function Section1() {
 											</p>
 										</div>
 										<p className="text">
-											Our mission is to empower businesses by providing innovative, data-driven
-											solutions that drive growth, enhance efficiency, and create lasting value.
-											We are committed to delivering exceptional service and personalized.
+											We envision a world where businesses soar by focusing on what they do best,
+											 while we transform their operations into seamless,
+											  compliant, and efficient systems that fuel growth and innovation.
 										</p>
 									</li>
 								</ul>

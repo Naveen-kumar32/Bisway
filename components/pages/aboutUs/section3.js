@@ -88,7 +88,7 @@ export default function Section3() {
 						<SwiperSlide>
 							<div className="card-member first tf-hover">
 								<div className="image hover-14 hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -126,7 +126,7 @@ export default function Section3() {
 						<SwiperSlide>
 							<div className="card-member  tf-hover">
 								<div className="image hover-14 hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -164,7 +164,7 @@ export default function Section3() {
 						<SwiperSlide>
 							<div className="card-member  tf-hover">
 								<div className="image hover-14 hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -202,7 +202,7 @@ export default function Section3() {
 						<SwiperSlide>
 							<div className="card-member last tf-hover">
 								<div className="image hover-14 hover-1">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"

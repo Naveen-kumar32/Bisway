@@ -18,12 +18,11 @@ export default function Section4() {
 										</span>
 									</p>
 									<p className="text text-white">
-										We are committed to delivering exceptional service and personalized strategies
-										that
-										help our clients succeed in a rapidly evolving marketplace. Through
-										collaboration,
-										integrity, and a relentless focus on results, we aim to be a trusted partner in
-										their journey toward sustainable success and industry leadership
+										At Bisways Consulting, we are dedicated to delivering exceptional service 
+										and tailored financial strategies that empower businesses to thrive in an ever-evolving economic landscape.
+										By combining deep domain expertise with a client-centric approach, we foster long-term partnerships built on trust,
+										integrity, and measurable results. Our mission is to be your trusted Virtual CFO and compliance partner, 
+										guiding you toward sustainable growth and industry leadership
 									</p>
 								</div>
 							</div>
@@ -53,12 +52,12 @@ export default function Section4() {
 								</div>
 								<p className="title font-main-2 fw-7">
 									<Link href="/our-service">
-										Consulting Strategy
+										Strategic Planning
 									</Link>
 								</p>
 								<p className="text">
-									Tailored strategies designed to address the unique ways
-									challenges and opportunities of each client.
+									Growing a business means taking many decisions about the way you want to expand your operations.
+									 Creating a strategic plan is a key component of planning for growth.
 								</p>
 								<span className="line mb-40" />
 								<ul className="benefit-list style-3">
@@ -68,7 +67,7 @@ export default function Section4() {
 										</div>
 										<p>
 											<Link href="/service-details">
-												Data-Driven Insights Leveraging
+												Blueprint for Growth
 											</Link>
 										</p>
 									</li>
@@ -78,7 +77,7 @@ export default function Section4() {
 										</div>
 										<p>
 											<Link href="/service-details">
-												Scalability and Flexibility
+												Scaling with Purpose
 											</Link>
 										</p>
 									</li>
@@ -88,7 +87,7 @@ export default function Section4() {
 										</div>
 										<p>
 											<Link href="/service-details">
-												Goal-Oriented Planning
+												Smart Moves, Big Impact
 											</Link>
 										</p>
 									</li>
@@ -102,12 +101,13 @@ export default function Section4() {
 								</div>
 								<p className="title font-main-2 fw-7">
 									<Link href="/our-service-02">
-										Business Growth &amp; Solutions
+										Consulting & Advisory
 									</Link>
 								</p>
 								<p className="text">
-									Our business growth and solutions services are designed to drive sustainable success
-									for your company.
+									Consulting & Advisory” refers to the practice of helping districts
+									 to improve performance through analysis of existing problems
+									 and development of plans.
 								</p>
 								<span className="line mb-40" />
 								<ul className="benefit-list style-3">
@@ -117,7 +117,7 @@ export default function Section4() {
 										</div>
 										<p>
 											<Link href="/service-details">
-												Market Opportunity Identification
+												Clear Strategy, Real Results
 											</Link>
 										</p>
 									</li>
@@ -127,7 +127,7 @@ export default function Section4() {
 										</div>
 										<p>
 											<Link href="/service-details">
-												Customer-Centric Approach
+												Solving Problem
 											</Link>
 										</p>
 									</li>
@@ -137,7 +137,7 @@ export default function Section4() {
 										</div>
 										<p>
 											<Link href="/service-details">
-												Performance Tracking
+												Expert Guidance, Every Step
 											</Link>
 										</p>
 									</li>
@@ -151,12 +151,12 @@ export default function Section4() {
 								</div>
 								<p className="title font-main-2 fw-7">
 									<Link href="/our-service" className="text-white hover-text-main-yellow">
-										Marketing Growth Solutions
+										Financial
 									</Link>
 								</p>
 								<p className="text">
-									Our marketing growth solutions are designed accelerate your business’s reach and
-									growth impact.
+									"Financial services" help in the development of businesses by giving them the required financial assistance,
+									 guaranteeing losses, etc.
 								</p>
 								<span className="line mb-40" />
 								<ul className="benefit-list style-3">
@@ -166,7 +166,7 @@ export default function Section4() {
 										</div>
 										<p>
 											<Link href="/service-details" className="text-white hover-text-main-yellow">
-												Performance Tracking &amp; Reporting
+												Access to Capital and Credit
 											</Link>
 										</p>
 									</li>
@@ -176,7 +176,7 @@ export default function Section4() {
 										</div>
 										<p>
 											<Link href="/service-details" className="text-white hover-text-main-yellow">
-												Automation and Technology
+												Risk Management
 											</Link>
 										</p>
 									</li>
@@ -186,7 +186,7 @@ export default function Section4() {
 										</div>
 										<p>
 											<Link href="/service-details" className="text-white hover-text-main-yellow">
-												SEO &amp; Content Optimization
+												Financial Planning and Advisory
 											</Link>
 										</p>
 									</li>

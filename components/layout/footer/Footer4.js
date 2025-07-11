@@ -54,13 +54,15 @@ export default function Footer4() {
 							<div className="col-lg-8 offset-lg-2">
 								<div className="content">
 									<p className="title font-main-2 text-anime-wave">
-										Let’s Grow your
-										<span> Marketing Strategy </span>
+										Let’s Grow your Business by Strategy
+										<span> Business by Strategy</span>
 									</p>
 									<p className="text">
-										A well-crafted marketing strategy is the foundation of any
-										successful business. It serves as a <br /> guiding how a company
-										reaches its target audience, communicates
+										Let’s grow with numbers that speak and plans that deliver.<br/>
+										We design financial strategies aligned to your vision.<br/>
+										From compliance to cash flow, we cover every step.<br/>
+										With Bisways, business growth becomes predictable and purposeful.
+
 									</p>
 									<Link href="/service-details" className="tf-btn text-anime-style-1">Get
 										Consultation <i className="icon-chevron-right" /></Link>
@@ -111,7 +113,7 @@ export default function Footer4() {
 										</div>
 										<div className="logo-site">
 											<Link href="/">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"

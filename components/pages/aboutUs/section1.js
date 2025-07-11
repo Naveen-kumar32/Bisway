@@ -23,7 +23,7 @@ export default function Section1() {
 									</span>
 								</p>
 								<div className="image">
-									<Image
+									<img
 										width="0"
 										height="0"
 										sizes="100vw"
@@ -43,7 +43,7 @@ export default function Section1() {
 								</p>
 								<div className="image mb-30 tf-hover">
 									<div className="hover-1">
-										<Image
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
@@ -52,9 +52,9 @@ export default function Section1() {
 									</div>
 								</div>
 								<p className="text text-white mb-40">
-									Business consulting services are designed help organizations navigate challenges,
-									streamline operations a achieve long-term success we work closely with clients to
-									identify areas.
+									Bisways Consulting is a trusted partner for startups, SMEs, and growing businesses across India,
+									 offering expert financial, compliance, and strategic advisory services. With a dedicated team of professionals,
+									 we specialize in Virtual CFO services, accounting, taxation, ROC filings, GST, and business registrations.
 								</p>
 								<ul className="list mb-40">
 									<li>

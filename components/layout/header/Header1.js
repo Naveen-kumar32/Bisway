@@ -60,7 +60,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 								<div className="header-left">
 									<div className="logo-site">
 										<Link href="/">
-											<Image
+											<img
 												width="139"
 													height="39"
 												id="logo_header" src="/images/logo/logo.png" data-retina="./images/logo/logo@2x.png" alt="" />
@@ -95,7 +95,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 									<div className="top">
 										<div className="logo">
 											<Link href="/" rel="home" className="main-logo">
-												<Image
+												<img
 													width="139"
 													height="39"
 													// sizes="(max-width: 768px) auto, 80vw"

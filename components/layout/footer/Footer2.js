@@ -55,7 +55,7 @@ export default function Footer2() {
 								<div className="footer-inner-wrap">
 									<div className="logo-site">
 										<Link href="/">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"

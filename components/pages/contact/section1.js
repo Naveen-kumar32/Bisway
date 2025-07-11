@@ -13,7 +13,7 @@ export default function Section1() {
 								<div className="wg-office tf-hover">
 									<div className="entry-image hover-1 wow zoomIn">
 										<div className="image">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -52,7 +52,7 @@ export default function Section1() {
 								<div className="wg-office tf-hover">
 									<div className="entry-image hover-1 wow zoomIn">
 										<div className="image">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"
@@ -91,7 +91,7 @@ export default function Section1() {
 								<div className="wg-office tf-hover">
 									<div className="entry-image hover-1 wow zoomIn">
 										<div className="image">
-											<Image
+											<img
 												width="0"
 												height="0"
 												sizes="100vw"

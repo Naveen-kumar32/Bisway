@@ -18,7 +18,7 @@ export default function Hero2() {
 										<div className="slide-home-2">
 											<div className="tf-overlay" />
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -55,7 +55,7 @@ export default function Hero2() {
 										<div className="slide-home-2">
 											<div className="tf-overlay" />
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -92,7 +92,7 @@ export default function Hero2() {
 										<div className="slide-home-2">
 											<div className="tf-overlay" />
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"
@@ -129,7 +129,7 @@ export default function Hero2() {
 										<div className="slide-home-2">
 											<div className="tf-overlay" />
 											<div className="image">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"

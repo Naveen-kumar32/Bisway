@@ -22,15 +22,17 @@ export default function Section6() {
 										<li className="wow fadeInUp" data-wow-delay="0s">
 											<p className="cap">Address Business</p>
 											<p className="infor">
-												55 East 10th Street, New York,
-												NY 10003, United States
+												3rd Floor, Lisa Ponnammal St,
+												 Plot no. 31, Golden George Nagar,
+												  Nerkundram, Chennai, Tamil Nadu 600107
+
 											</p>
 										</li>
 										<li className="wow fadeInUp" data-wow-delay="0.1s">
 											<p className="cap">Contact Us</p>
 											<p className="infor">
-												themesflat@gmail.com
-												+000 (123) 456 88
+												info@bisways.com
+												+91 99403 44774
 											</p>
 										</li>
 									</ul>

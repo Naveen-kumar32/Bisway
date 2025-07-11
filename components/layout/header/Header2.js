@@ -56,7 +56,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, handle
 								<div className="header-left">
 									<div className="logo-site">
 										<Link href="/">
-											<Image
+											<img
 												width="139"
 												height="39"
 												// sizes="100vw"
@@ -93,7 +93,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, handle
 									<div className="top">
 										<div className="logo">
 											<Link href="/" rel="home" className="main-logo">
-												<Image
+												<img
 													width="139"
 													height="39"
 													// sizes="100vw"

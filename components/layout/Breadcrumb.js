@@ -18,7 +18,7 @@ export default function Breadcrumb({ breadcrumbTitle, breadcrumbAlt }) {
 					<div className="content-wrap">
 						<div className="bg-image">
 							<div className="rellax" data-rellax-speed={-10}>
-								<Image
+								<img
 									width="0"
 									height="0"
 									sizes="100vw"

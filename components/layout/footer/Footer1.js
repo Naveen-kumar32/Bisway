@@ -146,7 +146,7 @@ export default function Footer1() {
 									<div className="inner-right">
 										<div className="logo-site">
 											<Link href="/">
-												<Image
+												<img
 													width="0"
 													height="0"
 													sizes="100vw"

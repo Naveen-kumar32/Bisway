@@ -27,12 +27,10 @@ export default function Section3() {
 										<i className="flaticon-market-1 hover-icon-2" />
 									</div>
 									<Link href="/#" className="title fw-7 fs-22">
-										Client-Centered Approach
+										Confidentiality First 
 									</Link>
 									<p className="text">
-										Our clients’ success is our top priority the
-										and we are dedicated to providing tailored strategies that align with their
-										goals
+										Respect and protect confidentiality
 									</p>
 								</div>
 								<div className="box-icon style-6 type-2 tf-hover-icon ">
@@ -40,11 +38,10 @@ export default function Section3() {
 										<i className="flaticon-excellent hover-icon-2" />
 									</div>
 									<Link href="/#" className="title fw-7 fs-22">
-										Excellence in Experience
+										Professional Integrity
 									</Link>
 									<p className="text">
-										At the heart of our business consulting services is a commitment to
-										excellence in experience we bring together years
+										Observe high professional and ethical standards
 									</p>
 								</div>
 								<div className="box-icon style-6 type-2 tf-hover-icon ">
@@ -52,11 +49,10 @@ export default function Section3() {
 										<i className="flaticon-integration hover-icon-2" />
 									</div>
 									<Link href="/#" className="title fw-7 fs-22">
-										Integrity and Transparency
+										Cultural Sensitivity 
 									</Link>
 									<p className="text">
-										Integrity and transparency are the was cornerstones of our consulting
-										approach. believe in building strong, trusting
+										We understand the client’s culture and help preserve it
 									</p>
 								</div>
 								<div className="box-icon style-6 type-2 tf-hover-icon ">
@@ -64,11 +60,10 @@ export default function Section3() {
 										<i className="flaticon-integrity hover-icon-2" />
 									</div>
 									<Link href="/#" className="title fw-7 fs-22">
-										Ethical Integrity
+										Technology for Efficiency 
 									</Link>
 									<p className="text">
-										We are committed to delivering the seen highest quality of service, ensuring
-										that every project reflects our dedication
+										Break the technology to ease the operations and reduce costs
 									</p>
 								</div>
 								<div className="box-icon style-6 type-2 tf-hover-icon ">
@@ -76,11 +71,10 @@ export default function Section3() {
 										<i className="flaticon-teamwork hover-icon-2" />
 									</div>
 									<Link href="/#" className="title fw-7 fs-22">
-										Collaboration and Teamwork
+										Continuous Learning & Innovation
 									</Link>
 									<p className="text">
-										We foster a collaborative environment, working closely with clients and
-										internal teams to achieve shared goals
+										We embrace new ideas, tools, and knowledge to stay ahead in a fast-changing business environment
 									</p>
 								</div>
 								<div className="box-icon style-6 type-2 tf-hover-icon ">
@@ -88,11 +82,10 @@ export default function Section3() {
 										<i className="flaticon-dna hover-icon-2" />
 									</div>
 									<Link href="/#" className="title fw-7 fs-22">
-										Innovation and Adaptability
+										Collaboration & Team Spirit
 									</Link>
 									<p className="text">
-										We embrace continuous improvement and innovation, integrating the latest
-										industry trends and technologies to provide.
+										We work hand-in-hand with clients and internal teams to deliver comprehensive solutions
 									</p>
 								</div>
 							</div>
