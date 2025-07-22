@@ -15,8 +15,7 @@ export default function Section3() {
 									consulting services
 								</p>
 								<p className="s-title text-center text-anime-wave">
-									The Quality Consulting Service to <br />
-									grow your business
+									The Bisways Consulting Service to grow your business 
 									<span>
 										and sales
 									</span>
@@ -37,11 +36,10 @@ export default function Section3() {
 											<i className="flaticon-data-management" />
 										</div>
 										<Link href="/service-details" className="title fw-7">
-											Management Consulting
+											Entity Setup & Registrations
 										</Link>
 										<p className="text">
-											Saylo our Management Consulting services businesses the unlock
-											potential.
+											We help you choose and register the ideal business structure tailored to your goals and compliance needs.
 										</p>
 										<Link href="/service-details" className="tf-btn-readmore style-3">
 											Read More
@@ -63,11 +61,10 @@ export default function Section3() {
 											<i className="flaticon-human-resources" />
 										</div>
 										<Link href="/service-details" className="title fw-7">
-											Resources Consulting
+											Accounting & Finance
 										</Link>
 										<p className="text">
-											Our resources consulting services designed to optimize the organizations
-											manage
+											We provide end-to-end accounting, bookkeeping, and financial reporting services to keep your business compliant and audit-ready..
 										</p>
 										<Link href="/service-details" className="tf-btn-readmore style-3">
 											Read More
@@ -90,11 +87,12 @@ export default function Section3() {
                                       " />
 										</div>
 										<Link href="/service-details" className="title fw-7">
-											Marketing Consulting
+											Secraterial Complainces
 										</Link>
 										<p className="text">
-											We analyze your current marketing efforts, identify areas for
-											improvement goals
+											We ensure your business stays compliant with all corporate laws, filings, and governance standards under the Companies Act.
+
+
 										</p>
 										<Link href="/service-details" className="tf-btn-readmore style-3">
 											Read More
@@ -116,11 +114,12 @@ export default function Section3() {
 											<i className="flaticon-return-of-investment" />
 										</div>
 										<Link href="/service-details" className="title fw-7">
-											Financial Consulting
+											Taxation
 										</Link>
 										<p className="text">
-											Provides expert financial planning budget
-											risk management and investment.
+											We offer comprehensive direct and indirect tax services, including GST, Income Tax, and TDS compliance.
+Our team ensures accurate filings.
+
 										</p>
 										<Link href="/service-details" className="tf-btn-readmore style-3">
 											Read More
@@ -143,11 +142,10 @@ export default function Section3() {
                                       " />
 										</div>
 										<Link href="/service-details" className="title fw-7">
-											Digital Transformation
+											Advisory
 										</Link>
 										<p className="text">
-											Guiding businesses through the adoption of new technologies and digital
-											tools
+											We provide expert financial, business, and compliance advisory to help you make informed decisions with confidence.
 										</p>
 										<Link href="/service-details" className="tf-btn-readmore style-3">
 											Read More
@@ -169,11 +167,10 @@ export default function Section3() {
 											<i className="flaticon-solution" />
 										</div>
 										<Link href="/service-details" className="title fw-7">
-											Operations Management
+											Licenses & Business Permits
 										</Link>
 										<p className="text">
-											Analyzing an optimizing internal processes to improve efficiency, reduce
-											costs
+											We assist in obtaining all mandatory licenses and regulatory permits required to legally operate your business.
 										</p>
 										<Link href="/service-details" className="tf-btn-readmore style-3">
 											Read More

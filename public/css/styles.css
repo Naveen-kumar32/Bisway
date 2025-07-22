@@ -5378,15 +5378,18 @@ a.mapboxgl-ctrl-logo {
 }
 
 @keyframes rollInRight {
-	0% {
-		opacity: 0;
-		transform: translateX(100%) rotate(120deg);
-	}
+  0% {
+    opacity: 0;
+    transform: translateX(100%) rotate(120deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0) rotate(0deg);
+  }
+}
 
-	100% {
-		opacity: 1;
-		transform: translateX(0) rotate(0deg);
-	}
+.rollInRight {
+  animation: rollInRight 1s ease both;
 }
 
 .moveLeftToRight {
@@ -15549,7 +15552,7 @@ a.mapboxgl-ctrl-logo {
 
 	.wow {
 		visibility: visible !important;
-		animation-name: none !important;
+		/* animation-name: none !important; */
 	}
 
 	.animationtext.clip {

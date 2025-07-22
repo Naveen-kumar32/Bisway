@@ -36,9 +36,12 @@ export default function Section4() {
 										</span>
 									</p>
 									<p className="text text-white mb-40">
-										Helping businesses develop clear, actionable strategies to achieve long-term
-										goals
-										and sustainable growth.
+										Good Support from Online Tax Filings 
+business teams for my company financial 
+services. Now I am not worrying about my 
+all taxes and company licenses. Thanks for 
+the support.
+
 									</p>
 									<div className="bot">
 										<div className="btn-slider-tesimonial btn-slide btn-prev style-4">
@@ -59,12 +62,41 @@ export default function Section4() {
 													<i className="icon-quote-left-saying-speech" />
 												</div>
 												<p className="say font-main-2 mb-30">
-													"Working with Saylo was a game changer for our company their team
-													quickly identy
-													operations and helped streamline,"
+													"They are Excellent experience in
+accounting service, Gst Filing, Roc Filing,
+ITR Filing, Document Preparation and also
+providing all Registration service.
+Professionalism, expertise, and excellent
+service by BK, GST & Co Auditors the entire
+service process is comfortable and good
+Experience. 5 STARS to him. I highly
+recommend this company.
+"
 												</p>
 												<div className="bot">
-													<Link href="/#" className="name fw-7"> Mendoza P. Alfredo </Link>
+													<Link href="/#" className="name fw-7"> SHARATH KUMAR </Link>
+													<p className="duty"> CRYSTAL ENTERPRISES</p>
+												</div>
+											</div>
+										</SwiperSlide>
+										<SwiperSlide>
+											<div className="wg-testimonial bg-white">
+												<div className="icon style-circle mb-40">
+													<i className="icon-quote-left-saying-speech" />
+												</div>
+												<p className="say font-main-2 mb-30">
+													"I have been using them for a couple of
+years on various tax Filings. They have
+been really efficient, quick, approachable,
+and friendly. I have been recommending
+them to all my friends. I highly recommend
+it to anyone who is looking for an honest
+genuine accountant for your Indian/NRl
+tax filling needs. Keep up the good service.
+"
+												</p>
+												<div className="bot">
+													<Link href="/#" className="name fw-7"> SIVA BHARATHI </Link>
 													<p className="duty">CEO of Tech Solutions</p>
 												</div>
 											</div>
@@ -75,12 +107,33 @@ export default function Section4() {
 													<i className="icon-quote-left-saying-speech" />
 												</div>
 												<p className="say font-main-2 mb-30">
-													"Working with Saylo was a game changer for our company their team
-													quickly identy
-													operations and helped streamline,"
+													"Good, well-trained, and knowledgeable
+auditors. So polite to clients. Giving
+wonderful guidance and helping at any
+time.
+"
 												</p>
 												<div className="bot">
-													<Link href="/#" className="name fw-7"> Mendoza P. Alfredo </Link>
+													<Link href="/#" className="name fw-7"> KABILAN MV </Link>
+													<p className="duty">CEO of Tech Solutions</p>
+												</div>
+											</div>
+										</SwiperSlide>
+										<SwiperSlide>
+											<div className="wg-testimonial bg-white">
+												<div className="icon style-circle mb-40">
+													<i className="icon-quote-left-saying-speech" />
+												</div>
+												<p className="say font-main-2 mb-30">
+													"We have been availing their accounting
+and tax filing services for several years
+now. Super happy with their proactive and
+flexible service.
+
+"
+												</p>
+												<div className="bot">
+													<Link href="/#" className="name fw-7"> SHIVA SHANKARI NEDUNCHEZIAN </Link>
 													<p className="duty">CEO of Tech Solutions</p>
 												</div>
 											</div>
@@ -96,3 +149,4 @@ export default function Section4() {
 		</>
 	)
 }
+

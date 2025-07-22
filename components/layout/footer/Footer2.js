@@ -95,15 +95,17 @@ export default function Footer2() {
 										<h5 className="footer-title footer-title-desktop">Address Business</h5>
 										<h5 className="footer-title footer-title-mobile" onClick={() => handleAccordion1(1)}>Address Business</h5>
 										<p className="text tf-collapse-content" style={{ display: getDisplayStyle1(1) }}>
-											55 East 10th Street, New York, NY 10003, United States
+											3rd Floor, Lisa Ponnammal St, Plot no. 31, Golden George Nagar, Nerkundram, Chennai, Tamil 
+Nadu 600107
+
 										</p>
 									</div>
 									<div className={`wrap footer-col-block  ${isAccordion2 === 1 ? 'open' : ''}`}>
 										<h5 className="footer-title footer-title-desktop">Contact Us</h5>
 										<h5 className="footer-title footer-title-mobile" onClick={() => handleAccordion2(1)}>Contact Us</h5>
 										<p className="text tf-collapse-content" style={{ display: getDisplayStyle2(1) }}>
-											themesflat@gmail.com <br />
-											+000 (123) 456 88
+											info@bisways.com <br />
+											+91 99403 44774
 										</p>
 									</div>
 								</div>
@@ -157,7 +159,7 @@ export default function Footer2() {
 									<i className="icon-arrow-top fs-8" />
 								</Link>
 								<p className="no-copy style-2">
-									Copyright © {new Date().getFullYear()} <span> Saylo </span> by
+									Copyright © {new Date().getFullYear()} <span> Bisway </span> by
 									<Link href="https://themeforest.net/user/themesflat" target="_blank">
 										Themesflat
 									</Link>

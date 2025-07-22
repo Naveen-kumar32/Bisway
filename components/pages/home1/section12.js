@@ -8,52 +8,52 @@ export default function Section12() {
 					<div className="wrap-marquee">
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 						<div className="marquee-item">
 							<p className="font-main-2 text">
-								Saylo Consulting
+								BISWAY CONSULTING GROUP
 							</p>
 						</div>
 					</div>

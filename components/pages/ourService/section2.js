@@ -38,6 +38,9 @@ export default function Section2() {
 									<p className="title font-main-2 mb-30 ">
 										Step-by-Step Consulting for Sustainable Growth
 									</p>
+									<br/>
+									<p>At Bisways Consulting, we follow a streamlined, four-step process designed to drive clarity,
+										 compliance, and consistent business growth</p>
 									<span className="line" />
 									<ul className="benefit-list">
 										<li>
@@ -45,7 +48,7 @@ export default function Section2() {
 												<i className="icon-check-2" />
 											</div>
 											<p>
-												Core Competencies and Expertise
+												Business Insight Session
 											</p>
 										</li>
 										<li>
@@ -53,7 +56,7 @@ export default function Section2() {
 												<i className="icon-check-2" />
 											</div>
 											<p>
-												Key Strengths and Accomplishments
+												Compliance & Financial Audit
 											</p>
 										</li>
 										<li>
@@ -61,7 +64,15 @@ export default function Section2() {
 												<i className="icon-check-2" />
 											</div>
 											<p>
-												Skills and Career Highlights
+												Bespoke Solution Execution
+											</p>
+										</li>
+										<li>
+											<div className="icon">
+												<i className="icon-check-2" />
+											</div>
+											<p>
+												Continuous Partnership & Progress
 											</p>
 										</li>
 									</ul>
@@ -76,12 +87,12 @@ export default function Section2() {
 											</span>
 										</div>
 										<Link href="/#" className="name-process font-main-2">
-											Discovery &amp; Research
+											Discover
 										</Link>
 									</div>
 									<p className="text">
-										We begin deep understanding your business, goal challenges
-										market research, competitor
+										We begin by understanding your business structure, goals,
+										 and financial challenges through a detailed consultation.
 									</p>
 								</div>
 								<div className="wg-process mb-10 wow fadeInUp" data-wow-delay="0s">
@@ -92,12 +103,11 @@ export default function Section2() {
 											</span>
 										</div>
 										<Link href="/#" className="name-process font-main-2">
-											Strategy Development
+											Diagnose
 										</Link>
 									</div>
 									<p className="text">
-										Based on our research develop comprehensive best marketing strategy aligns with
-										objectives.
+										Our team analyzes your books, compliance status, and operational gaps to identify key improvement areas.
 									</p>
 								</div>
 								<div className="wg-process mb-10 wow fadeInUp" data-wow-delay="0s">
@@ -108,12 +118,11 @@ export default function Section2() {
 											</span>
 										</div>
 										<Link href="/#" className="name-process font-main-2">
-											Implementation
+											Design & Implement
 										</Link>
 									</div>
 									<p className="text">
-										Once the strategy is finalized, we move into action execute marketing campaigns
-										across
+										We craft tailored solutions — from compliance to Virtual CFO services — and integrate them seamlessly into your workflow.
 									</p>
 								</div>
 								<div className="wg-process  wow fadeInUp" data-wow-delay="0s">
@@ -124,12 +133,11 @@ export default function Section2() {
 											</span>
 										</div>
 										<Link href="/#" className="name-process font-main-2">
-											Monitoring Support
+											Monitor & Grow
 										</Link>
 									</div>
 									<p className="text">
-										We continuously monitor they
-										performance metrics, tracking KPIs such as engagement
+										With continuous support, real-time reporting, and strategic advice, we help you stay compliant and scale sustainably.
 									</p>
 								</div>
 							</div>

@@ -12,7 +12,7 @@ export default function Section2() {
 					<div className="col-lg-12">
 						<div className="content">
 							<div className="bg-image">
-								<div className="rellax type-2" style={{
+								{/* <div className="rellax type-2" style={{
 									backgroundAttachment: "fixed", 
 									backgroundPosition: "center", 
 									backgroundSize: "cover", 
@@ -20,7 +20,10 @@ export default function Section2() {
 									width: "100%",
 									height: "100%",
 									}}>
-								</div>
+								</div> */}
+								<div style={{height:'100%',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
+														Image Here
+										</div>
 							</div>
 						</div>
 					</div>

@@ -19,13 +19,13 @@ export default function Section1() {
 										src="/images/item/404.png" data-src="/images/item/404.png" alt="" className="lazyload" />
 								</div>
 								<p className="not-found text-anime-wave">
-									OPPS! Page Not Found
+									COMING SOON
 								</p>
-								<p className="sub">
+								{/* <p className="sub">
 									It looks like the page you're looking for doesn’t exist or may have been moved.
 									Don’t worry, we’re here to help! You can return to <br /> our homepage, explore our
 									services, or contact us directly if you need assistance.
-								</p>
+								</p> */}
 								<Link href="/" className="tf-btn style-8 text-anime-style-1">
 									Go to Home
 									<i className="icon-chevron-right" />

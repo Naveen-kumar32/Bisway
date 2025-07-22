@@ -10,7 +10,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 				<div className="tf-container w-1780">
 					<div className="row">
 						<div className="col-lg-12">
-							<div className="topbar-inner">
+							{/* <div className="topbar-inner">
 								<div className="topbar-left">
 									<div className="icon">
 										<i className="flaticon-tag" />
@@ -23,8 +23,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 											<div className="icon">
 												<i className="flaticon-open-mail" />
 											</div>
-											<Link href="mailto:Themesflat@gmail.com">
-												Themesflat@gmail.com
+											<Link href="mailto:info@bisways.com">
+												info@bisways.com
 											</Link>
 										</li>
 										<li>
@@ -32,7 +32,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 												<i className="flaticon-phone-call" />
 											</div>
 											<p>
-												Phone No :<Link href="/tel:+00012345688"> +000 (123) 456 88
+												Phone No :<Link href="/tel:+919940344774"> +91 99403 44774
 												</Link>
 											</p>
 										</li>
@@ -46,7 +46,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 										</li>
 									</ul>
 								</div>
-							</div>
+							</div> */}
 						</div>
 					</div>
 				</div>

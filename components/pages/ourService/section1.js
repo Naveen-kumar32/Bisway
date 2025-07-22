@@ -33,8 +33,9 @@ export default function Section1() {
 									</Link>
 									<span className="line mb-30" />
 									<p className="text">
-										We develop tailored strategies that align with your business addressing unique
-										challenges leveraging.
+										At Bisways Consulting,
+										we craft personalized strategies that align with your business goals,
+										tackle unique challenges, and unlock growth opportunities.
 									</p>
 									<div className="image">
 										<Link href="/service-details">
@@ -43,7 +44,7 @@ export default function Section1() {
 												height="0"
 												sizes="100vw"
 												style={{ width: "100%", height: "100%" }}
-												src="/images/section/feature.jpg" data-src="/images/section/feature.jpg" alt="" className="lazyload" />
+												src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
 										</Link>
 									</div>
 								</div>
@@ -52,13 +53,13 @@ export default function Section1() {
 										<i className="flaticon-workflow" />
 									</div>
 									<Link href="/service-details" className="title">
-										Customized Strategic
-										Planning &amp; Ideas
+										Blueprinting Brilliance for Your Business
 									</Link>
 									<span className="line mb-30" />
 									<p className="text">
-										We develop tailored strategies that align with your business addressing unique
-										challenges leveraging.
+										We decode your business DNA to design unique pathways for progress.
+										By combining analytical depth with creative problem-solving,
+										 we unlock fresh possibilities and drive meaningful transformation.
 									</p>
 									<div className="image">
 										<Link href="/service-details">
@@ -67,7 +68,7 @@ export default function Section1() {
 												height="0"
 												sizes="100vw"
 												style={{ width: "100%", height: "100%" }}
-												src="/images/section/feature.jpg" data-src="/images/section/feature.jpg" alt="" className="lazyload" />
+												src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
 										</Link>
 									</div>
 								</div>
@@ -76,12 +77,14 @@ export default function Section1() {
 										<i className="flaticon-team" />
 									</div>
 									<Link href="/service-details" className="title">
-										Operational Efficiency Optimization
+										Elevating Efficiency, Empowering Growth
 									</Link>
 									<span className="line mb-30" />
 									<p className="text">
-										We analyze and refine business the processes to improve productivity to reduce
-										costs, and enhance overall.
+										We streamline your business workflows to eliminate friction,
+										 boost productivity, and cut unnecessary costs.Through intelligent systems and sharp process insights,
+										  we help you operate smarter ,not just faster.
+
 									</p>
 									<div className="image">
 										<Link href="/service-details">
@@ -90,7 +93,7 @@ export default function Section1() {
 												height="0"
 												sizes="100vw"
 												style={{ width: "100%", height: "100%" }}
-												src="/images/section/feature.jpg" data-src="/images/section/feature.jpg" alt="" className="lazyload" />
+												src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
 										</Link>
 									</div>
 								</div>

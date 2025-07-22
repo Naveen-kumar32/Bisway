@@ -20,12 +20,16 @@ export default function Section3() {
 								</p>
 								<div className="image tf-hover mb-40">
 									<div className="hover-1 hover-14">
-										<img
+										<div style={{height:'500px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
+														Image Here
+										</div>
+										{/* <img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											src="/images/section/s-service.jpg" data-src="/images/section/s-service.jpg" alt="" className="lazyload tf-animate-2" />
+									 */}
 									</div>
 								</div>
 								<p className="text mb-30" style={{fontSize:"22px"}}>

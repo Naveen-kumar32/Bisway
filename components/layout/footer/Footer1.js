@@ -56,7 +56,7 @@ export default function Footer1() {
 					<div className="tf-container">
 						<div className="row">
 							<div className="col-lg-12">
-								<Swiper {...sliderCarousel} className="swiper-container slider-carousel">
+								{/* <Swiper {...sliderCarousel} className="swiper-container slider-carousel">
 									<div className="swiper-wrapper">
 										<SwiperSlide>
 											<div className="box-cta wow fadeInUp" data-wow-delay="0s">
@@ -91,7 +91,7 @@ export default function Footer1() {
 									</div>
 									<div className="tf-pagination style-3 carousel-pagination swiper-pagination">
 									</div>
-								</Swiper>
+								</Swiper> */}
 							</div>
 						</div>
 					</div>
@@ -133,13 +133,13 @@ export default function Footer1() {
 												<li>
 													<Link href="/career">Carrier Options</Link>
 												</li>
-												<li>
+												{/* <li>
 													<Link href="/service-details">Applications</Link>
-												</li>
+												</li> */}
 												<li>
 													<Link href="/contact">Contact Us</Link>
 												</li>
-												<li><Link href="/case-study-01">Case Studies</Link></li>
+												{/* <li><Link href="/case-study-01">Case Studies</Link></li> */}
 											</ul>
 										</div>
 									</div>
@@ -185,7 +185,7 @@ export default function Footer1() {
 									<i className="icon-arrow-top fs-8"> </i>
 								</Link>
 								<p className="no-copy style-2">
-									Copyright © {new Date().getFullYear()} <span> Saylo </span> by
+									Copyright © {new Date().getFullYear()} <span> Bisway </span> by
 									<Link href="https://themeforest.net/user/themesflat" target="_blank">
 										Themesflat
 									</Link>

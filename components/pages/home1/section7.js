@@ -31,12 +31,16 @@ export default function Section7() {
 							<div className="pb-100">
 								<div className="image tf-hover">
 									<div className="hover-1 hover-14">
-										<img
+										<div style={{height:'450px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
+														Image Here
+										</div>
+										{/* <img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											src="/images/section/working-s2-1.jpg" data-src="/images/section/working-s2-1.jpg" alt="" className="lazyload tf-animate-2" />
+									 */}
 									</div>
 								</div>
 							</div>
@@ -217,12 +221,16 @@ Together, we build growth that lasts beyond the balance sheet.
 							<div >
 								<div className="image tf-hover tab-content current" id="tabs-1">
 									<div className="hover-1 hover-14">
-										<img
+										{/* <img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											src="/images/section/working-s2-2.jpg" data-src="/images/section/working-s2-2.jpg" alt="" className="lazyload tf-animate-2" />
+									 */}
+									 <div style={{height:'450px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
+														Image Here
+										</div>
 									</div>
 								</div>
 								<div className="image tf-hover tab-content" id="tabs-2">
@@ -253,6 +261,7 @@ Together, we build growth that lasts beyond the balance sheet.
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											src="/images/section/working-s2-1.jpg" data-src="/images/section/working-s2-1.jpg" alt="" className="lazyload" />
+									
 									</div>
 								</div>
 							</div>

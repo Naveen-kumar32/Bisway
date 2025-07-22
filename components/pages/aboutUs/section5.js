@@ -48,7 +48,7 @@ export default function Section5() {
 
 			<section className="s-testimonial tf-spacing-7">
 				<div className="tf-marquee slider-Saylo style-2">
-					<div className="wrap-marquee">
+					{/* <div className="wrap-marquee">
 						<div className="marquee-item">
 							<p className="font-main-2 text">
 								our testimonials
@@ -99,11 +99,11 @@ export default function Section5() {
 								our testimonials
 							</p>
 						</div>
-					</div>
+					</div> */}
 				</div>
 				<div className="mb-100">
 					<div className="tf-container">
-						<div className="row">
+						{/* <div className="row">
 							<div className="col-lg-4">
 								<div className="item-customer style-2">
 									<Link href="/#" className="mb-15">10m+ Customer</Link>
@@ -171,7 +171,7 @@ export default function Section5() {
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> */}
 					</div>
 				</div>
 				<div className="tf-container">
@@ -182,22 +182,25 @@ export default function Section5() {
 									<div className="swiper-wrapper">
 										<SwiperSlide>
 											<div className="image">
-												<img
+												{/* <img
 													width="0"
 													height="0"
 													sizes="100vw"
 													style={{ width: "100%", height: "auto" }}
-													src="/images/section/testimonial-thumbs.jpg" data-src="/images/section/testimonial-thumbs.jpg" alt="" className="lazyload" />
+													src="/images/section/testimonial-thumbs.jpg" data-src="/images/section/testimonial-thumbs.jpg" alt="" className="lazyload" /> */}
+											<div style={{height:'450px',width:'100%',padding:'10px',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
+														Image Here
+										</div>
 											</div>
 										</SwiperSlide>
 										<SwiperSlide>
 											<div className="image">
-												<img
+												{/* <img
 													width="0"
 													height="0"
 													sizes="100vw"
 													style={{ width: "100%", height: "auto" }}
-													src="/images/section/testimonial-thumbs.jpg" data-src="/images/section/testimonial-thumbs.jpg" alt="" className="lazyload" />
+													src="/images/section/testimonial-thumbs.jpg" data-src="/images/section/testimonial-thumbs.jpg" alt="" className="lazyload" /> */}
 											</div>
 										</SwiperSlide>
 									</div>
