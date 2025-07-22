@@ -28,8 +28,8 @@ export default function Section3() {
 											width="0"
 											height="0"
 											sizes="100vw"
-											style={{ width: "100%", height: "auto" }}
-											src="/images/widget/card-service-5.jpg" data-src="/images/widget/card-service-5.jpg" alt="" className="lazyload" />
+											style={{ width: "100%", height : "350px" }}
+											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -53,8 +53,8 @@ export default function Section3() {
 											width="0"
 											height="0"
 											sizes="100vw"
-											style={{ width: "100%", height: "auto" }}
-											src="/images/widget/card-service-6.jpg" data-src="/images/widget/card-service-6.jpg" alt="" className="lazyload" />
+											style={{ width: "100%", height : "350px" }}
+											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -78,8 +78,8 @@ export default function Section3() {
 											width="0"
 											height="0"
 											sizes="100vw"
-											style={{ width: "100%", height: "auto" }}
-											src="/images/widget/card-service-7.jpg" data-src="/images/widget/card-service-7.jpg" alt="" className="lazyload" />
+											style={{ width: "100%", height : "350px" }}
+											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -106,8 +106,8 @@ export default function Section3() {
 											width="0"
 											height="0"
 											sizes="100vw"
-											style={{ width: "100%", height: "auto" }}
-											src="/images/widget/card-service-8.jpg" data-src="/images/widget/card-service-8.jpg" alt="" className="lazyload" />
+											style={{ width: "100%", height : "350px" }}
+											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -133,8 +133,8 @@ Our team ensures accurate filings.
 											width="0"
 											height="0"
 											sizes="100vw"
-											style={{ width: "100%", height: "auto" }}
-											src="/images/widget/card-service-9.jpg" data-src="/images/widget/card-service-9.jpg" alt="" className="lazyload" />
+											style={{ width: "100%", height : "350px" }}
+											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -159,8 +159,8 @@ Our team ensures accurate filings.
 											width="0"
 											height="0"
 											sizes="100vw"
-											style={{ width: "100%", height: "auto" }}
-											src="/images/widget/card-service-10.jpg" data-src="/images/widget/card-service-10.jpg" alt="" className="lazyload" />
+											style={{ width: "100%", height : "350px" }}
+											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
