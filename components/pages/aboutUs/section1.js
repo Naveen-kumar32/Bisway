@@ -38,8 +38,8 @@ export default function Section1() {
 						<div className="col-lg-5">
 							<div className="content-right">
 								<div className="wg-counter style-4 pt-5">
-									<div className="odometer style-4"><CounterUp count={10} /></div>
-									<span className="sub-odo">+</span>
+									{/* <div className="odometer style-4"><CounterUp count={10} /></div> */}
+									{/* <span className="sub-odo">+</span> */}
 								</div>
 								<p className="sub-counter text-white font-main-2 fw-5 fs-20 mb-70 mt-5">
 									Years Of Experience In Business Consulting
@@ -80,10 +80,10 @@ export default function Section1() {
 										</p>
 									</li>
 								</ul>
-								<Link href="/our-service" className="tf-btn text-anime-style-1">
+								{/* <Link href="/our-service" className="tf-btn text-anime-style-1">
 									Get Started
 									<i className="icon-chevron-right" />
-								</Link>
+								</Link> */}
 							</div>
 						</div>
 					</div>

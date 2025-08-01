@@ -77,13 +77,13 @@ export default function Footer4() {
 							<div className="row">
 								<div className="col-lg-4">
 									<div className="flex item-center h-100">
-										<p className="title font-main-2 fw-7">
+										{/* <p className="title font-main-2 fw-7">
 											Newsletter
 											<span className="fw-3"> Subscribe </span>
-										</p>
+										</p> */}
 									</div>
 								</div>
-								<div className="col-lg-7 offset-lg-1">
+								{/* <div className="col-lg-7 offset-lg-1">
 									<div className="subscribe-wrap">
 										<form action="#" id="form-sub" className="form-sub style-2">
 											<fieldset>
@@ -95,7 +95,7 @@ export default function Footer4() {
 											<i className="icon-chevron-right" />
 										</button>
 									</div>
-								</div>
+								</div> */}
 							</div>
 						</div>
 					</div>
@@ -104,14 +104,14 @@ export default function Footer4() {
 							<div className="col-lg-12">
 								<div className="inner-center">
 									<div className="footer-inner-wrap s1">
-										<div className="wrap">
+										{/* <div className="wrap">
 											<h5 className="footer-title">Company</h5>
 											<p className="text">
 												Consulting agency serves strategic businesses looking
 												overcome.
 											</p>
-										</div>
-										<div className="logo-site">
+										</div> */}
+										{/* <div className="logo-site">
 											<Link href="/">
 												<img
 													width="0"
@@ -120,7 +120,7 @@ export default function Footer4() {
 													style={{ width: "100%", height: "auto" }}
 													id="logo_footer" data-retina="./images/logo/logo@2x.png" src="/images/logo/logo.png" alt="" />
 											</Link>
-										</div>
+										</div> */}
 									</div>
 									<div className="footer-inner-wrap s1">
 										<div className={`wrap footer-col-block  ${isAccordion1 === 1 ? 'open' : ''}`}>
@@ -142,9 +142,9 @@ Nadu 600107
 										</div>
 									</div>
 									<div className={`footer-inner-wrap footer-col-block ${isAccordion3 === 1 ? 'open' : ''}`}>
-										<h5 className="footer-title footer-title-desktop">Services</h5>
-										<h5 className="footer-title footer-title-mobile" onClick={() => handleAccordion3(1)}>Services</h5>
-										<ul className="list tf-collapse-content" style={{ display: getDisplayStyle3(1) }}>
+										{/* <h5 className="footer-title footer-title-desktop">Services</h5> */}
+										{/* <h5 className="footer-title footer-title-mobile" onClick={() => handleAccordion3(1)}>Services</h5> */}
+										{/* <ul className="list tf-collapse-content" style={{ display: getDisplayStyle3(1) }}>
 											<li>
 												<Link href="/service-details">Financial Analysis</Link>
 											</li>
@@ -160,16 +160,16 @@ Nadu 600107
 											<li>
 												<Link href="/service-details">Business Consulting</Link>
 											</li>
-										</ul>
+										</ul> */}
 									</div>
 									<div className="footer-inner-wrap footer-col-block">
-										<h5 className="footer-title footer-title-desktop">Quick Link</h5>
-										<h5 className="footer-title footer-title-mobile">Quick Link</h5>
+										{/* <h5 className="footer-title footer-title-desktop">Quick Link</h5>
+										<h5 className="footer-title footer-title-mobile">Quick Link</h5> */}
 										<ul className="list tf-collapse-content">
 											<li>
 												<Link href="/about-us">About Company</Link>
 											</li>
-											<li>
+											{/* <li>
 												<Link href="/career">Need a Career?</Link>
 											</li>
 											<li>
@@ -177,7 +177,7 @@ Nadu 600107
 											</li>
 											<li>
 												<Link href="/faqs">Clients Feedback</Link>
-											</li>
+											</li> */}
 											<li><Link href="/contact">Contact Us</Link></li>
 										</ul>
 									</div>

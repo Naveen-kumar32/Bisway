@@ -55,7 +55,7 @@ export default function Section7() {
 									transparent, integrity-driven service every step of the way.
 									
 								</p>
-								<div className="bot">
+								{/* <div className="bot">
 									<div className="counter-wrap style-2">
 										<div className="relative mb-20">
 											<div className="circle-container">
@@ -85,7 +85,7 @@ export default function Section7() {
 													<div className="odometer style-5-2"><CounterUp count={86} /></div>
 													<span className="sub-odo">%</span>
 												</div>
-											</div> {/* Vòng tròn nền */}
+											</div> 
 										</div>
 										<p className="sub-counter">
 											Marketing and <br />
@@ -110,7 +110,7 @@ export default function Section7() {
 											Financial plan
 										</p>
 									</div>
-								</div>
+								</div> */}
 							</div>
 						</div>
 						<div className="col-lg-6">

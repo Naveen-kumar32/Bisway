@@ -63,10 +63,10 @@ export default function Footer2() {
 												id="logo_footer" data-retina="./images/logo/logo@2x.png" src="/images/logo/logo.png" alt="" />
 										</Link>
 									</div>
-									<p className="text mb-70">
+									{/* <p className="text mb-70">
 										Consulting agency serves strategic businesses looking
 										overcome.
-									</p>
+									</p> */}
 									<ul className="social-list">
 										<li>
 											<Link href="/#">
@@ -112,7 +112,7 @@ Nadu 600107
 								<div className={`footer-inner-wrap footer-col-block ${isAccordion3 === 1 ? 'open' : ''}`}>
 									<h5 className="footer-title footer-title-desktop">Services</h5>
 									<h5 className="footer-title footer-title-mobile" onClick={() => handleAccordion3(1)}>Services</h5>
-									<ul className="list tf-collapse-content" style={{ display: getDisplayStyle3(1) }}>
+									{/* <ul className="list tf-collapse-content" style={{ display: getDisplayStyle3(1) }}>
 										<li>
 											<Link href="/service-details">Financial Analysis</Link>
 										</li>
@@ -128,13 +128,13 @@ Nadu 600107
 										<li>
 											<Link href="/service-details">Business Consulting</Link>
 										</li>
-									</ul>
+									</ul> */}
 								</div>
 								<div className="footer-inner-wrap form-wrap">
 									<h5 className="footer-title">Newsletter</h5>
-									<p className="text mb-30">
+									{/* <p className="text mb-30">
 										Stay us subscribing to our newsletter
-									</p>
+									</p> */}
 									<form action="#" id="form-sub" className="form-sub style-5">
 										<fieldset className="mb-20">
 											<input type="text" placeholder="Email Address" required />
@@ -143,11 +143,11 @@ Nadu 600107
 											<i className="icon-envelope" />
 										</button>
 										<div className="checkbox-item mb-30 style-2">
-											<label>
+											{/* <label>
 												<span className="text">Proacted your privacy</span>
 												<input type="checkbox" className="checkbox-item" defaultChecked />
 												<span className="btn-checkbox" />
-											</label>
+											</label> */}
 										</div>
 									</form>
 								</div>
@@ -167,7 +167,7 @@ Nadu 600107
 								</p>
 								<div className="policy-list">
 									<ul className="list">
-										<li>
+										{/* <li>
 											<Link href="/faqs"> Privacy Policy </Link>
 										</li>
 										<li>
@@ -175,7 +175,7 @@ Nadu 600107
 										</li>
 										<li>
 											<Link href="/faqs"> Support </Link>
-										</li>
+										</li> */}
 									</ul>
 								</div>
 							</div>

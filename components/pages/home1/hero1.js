@@ -68,12 +68,16 @@ We help businesses adapt, grow, and lead in an ever-evolving digital landscape.
 							<div className="col-lg-6">
 								<div className="image-wrap">
 									<div className="image">
-										<img
+										{/* <img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
 											src="/images/section/page-title-home-1.jpg" data-src="/images/section/page-title-home-1.jpg" alt="" className="lazyload" />
+									 */}
+									 <div style={{height:'700px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
+														Image Here
+										</div>
 									</div>
 									{/* <div className="wg-curve-text tf-animate__box animate__slow">
 										<div className="icon">
@@ -90,7 +94,7 @@ We help businesses adapt, grow, and lead in an ever-evolving digital landscape.
 						</div>
 					</div>
 				</div>
-				<div className="tf-marquee slider-Saylo">
+				{/* <div className="tf-marquee slider-Saylo">
 					<div className="wrap-marquee">
 						<div className="marquee-item">
 							<p className="font-main-2 text">
@@ -143,7 +147,7 @@ We help businesses adapt, grow, and lead in an ever-evolving digital landscape.
 							</p>
 						</div>
 					</div>
-				</div>
+				</div> */}
 			</div>
 			{/* <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="JXMWOmuR1hU" onClose={() => setOpen(false)} /> */}
 

@@ -105,7 +105,7 @@ export default function Footer1() {
 										<div className={`footer-inner-wrap footer-col-block ${isAccordion1 === 1 ? 'open' : ''} `}>
 											<p className="footer-title footer-title-desktop">Services</p>
 											<p className="footer-title footer-title-mobile" onClick={() => handleAccordion1(1)}>Services</p>
-											<ul className="list tf-collapse-content" style={{ display: getDisplayStyle1(1) }}>
+											{/* <ul className="list tf-collapse-content" style={{ display: getDisplayStyle1(1) }}>
 												<li>
 													<Link href="/service-details">Financial Analysis</Link>
 												</li>
@@ -121,7 +121,7 @@ export default function Footer1() {
 												<li>
 													<Link href="/service-details">HR Management</Link>
 												</li>
-											</ul>
+											</ul> */}
 										</div>
 										<div className={`footer-inner-wrap footer-col-block ${isAccordion1 === 1 ? 'open' : ''} `}>
 											<p className="footer-title footer-title-desktop">Quick Links</p>
@@ -130,9 +130,9 @@ export default function Footer1() {
 												<li>
 													<Link href="/about-us">About Company</Link>
 												</li>
-												<li>
+												{/* <li>
 													<Link href="/career">Carrier Options</Link>
-												</li>
+												</li> */}
 												{/* <li>
 													<Link href="/service-details">Applications</Link>
 												</li> */}
@@ -145,20 +145,20 @@ export default function Footer1() {
 									</div>
 									<div className="inner-right">
 										<div className="logo-site">
-											<Link href="/">
+											{/* <Link href="/">
 												<img
 													width="0"
 													height="0"
 													sizes="100vw"
 													style={{ width: "100%", height: "auto" }}
 													id="logo_footer" data-retina="./images/logo/logo@2x.png" src="/images/logo/logo.png" alt="" />
-											</Link>
+											</Link> */}
 										</div>
-										<p>
+										{/* <p>
 											Stay up-to-date with the latest trends in digital
 											marketing and receive exclusive <br /> tips and insights by
 											subscribing to our newsletter.
-										</p>
+										</p> */}
 										<form action="#" id="form-sub" className="form-sub style-4">
 											<fieldset>
 												<div className="icon">
@@ -166,10 +166,10 @@ export default function Footer1() {
 												</div>
 												<input type="text" placeholder="Email Address" required />
 											</fieldset>
-											<button type="submit" className="tf-btn">
+											{/* <button type="submit" className="tf-btn">
 												Subscribe
 												<i className="icon-chevron-right" />
-											</button>
+											</button> */}
 										</form>
 									</div>
 								</div>

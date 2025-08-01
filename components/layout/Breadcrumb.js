@@ -50,7 +50,7 @@ export default function Breadcrumb({ breadcrumbTitle, breadcrumbAlt }) {
 						</div>
 					</div>
 					<div className="tf-marquee slider-Saylo mt-65">
-						<div className="wrap-marquee">
+						{/* <div className="wrap-marquee">
 							{Array(10)
 								.fill("Saylo Consulting")
 								.map((text, index) => (
@@ -58,7 +58,7 @@ export default function Breadcrumb({ breadcrumbTitle, breadcrumbAlt }) {
 										<p className="font-main-2 text">{text}</p>
 									</div>
 								))}
-						</div>
+						</div> */}
 					</div>
 				</div>
 			}
