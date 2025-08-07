@@ -103,8 +103,8 @@ export default function Footer1() {
 								<div className="footer-inner">
 									<div className="inner-left">
 										<div className={`footer-inner-wrap footer-col-block ${isAccordion1 === 1 ? 'open' : ''} `}>
-											<p className="footer-title footer-title-desktop">Services</p>
-											<p className="footer-title footer-title-mobile" onClick={() => handleAccordion1(1)}>Services</p>
+											{/* <p className="footer-title footer-title-desktop">Services</p> */}
+											{/* <p className="footer-title footer-title-mobile" onClick={() => handleAccordion1(1)}>Services</p> */}
 											{/* <ul className="list tf-collapse-content" style={{ display: getDisplayStyle1(1) }}>
 												<li>
 													<Link href="/service-details">Financial Analysis</Link>
@@ -136,9 +136,9 @@ export default function Footer1() {
 												{/* <li>
 													<Link href="/service-details">Applications</Link>
 												</li> */}
-												<li>
+												{/* <li>
 													<Link href="/contact">Contact Us</Link>
-												</li>
+												</li> */}
 												{/* <li><Link href="/case-study-01">Case Studies</Link></li> */}
 											</ul>
 										</div>
@@ -159,18 +159,18 @@ export default function Footer1() {
 											marketing and receive exclusive <br /> tips and insights by
 											subscribing to our newsletter.
 										</p> */}
-										<form action="#" id="form-sub" className="form-sub style-4">
+										{/* <form action="#" id="form-sub" className="form-sub style-4">
 											<fieldset>
 												<div className="icon">
 													<i className="icon-envelope" />
 												</div>
 												<input type="text" placeholder="Email Address" required />
 											</fieldset>
-											{/* <button type="submit" className="tf-btn">
+											<button type="submit" className="tf-btn">
 												Subscribe
 												<i className="icon-chevron-right" />
-											</button> */}
-										</form>
+											</button>
+										</form> */}
 									</div>
 								</div>
 							</div>
@@ -185,13 +185,11 @@ export default function Footer1() {
 									<i className="icon-arrow-top fs-8"> </i>
 								</Link>
 								<p className="no-copy style-2">
-									Copyright © {new Date().getFullYear()} <span> Bisway </span> by
-									<Link href="https://themeforest.net/user/themesflat" target="_blank">
-										Themesflat
-									</Link>
+									Copyright © {new Date().getFullYear()} <span> Bisway </span>
+								
 									, All Rights Reserved.
 								</p>
-								<div className="policy-list">
+								{/* <div className="policy-list">
 									<ul className="list">
 										<li>
 											<Link href="/faqs"> Teams &amp; Conditions </Link>
@@ -203,7 +201,7 @@ export default function Footer1() {
 											<Link href="/faqs"> Privacy Policy </Link>
 										</li>
 									</ul>
-								</div>
+								</div> */}
 							</div>
 						</div>
 					</div>

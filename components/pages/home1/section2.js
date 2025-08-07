@@ -53,19 +53,12 @@ export default function Section2() {
 							<div className="col-lg-5 offset-lg-1">
 								<div className="image-wrap">
 									<div className="image">
-										<div style={{
-											height: '716px',
-											width: '520px',
-											backgroundColor: 'black',
-											display: 'flex',
-											alignItems: 'center',
-											justifyContent: 'center',
-											fontSize: '50px',
-											fontWeight: '700',
-											color: '#ffcd4c'
-										}}>
-											Image Here
-										</div>
+										<img
+											
+											sizes="100vw"
+											style={{ width: "100%", height: "auto" }}
+											src="/images/section/home-1.jpg" data-src="/images/section/home-1.jpg" alt="" className="lazyload tf-animate-2" />
+									
 									</div>
 									<span
 										ref={ref}
@@ -80,7 +73,7 @@ export default function Section2() {
 						</div>
 					</div>
 				</div>
-				<div className="tf-marquee slider-saylo style-2">
+				{/* <div className="tf-marquee slider-saylo style-2">
 					<div className="wrap-marquee">
 						{Array.from({ length: 10 }).map((_, i) => (
 							<div className="marquee-item" key={i}>
@@ -88,7 +81,7 @@ export default function Section2() {
 							</div>
 						))}
 					</div>
-				</div>
+				</div> */}
 			</section>
 		</>
 	);

@@ -70,7 +70,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, handle
 										<Menu />
 									</nav>
 								</div>
-								<div className="header-right">
+								{/* <div className="header-right">
 									<Link href="/our-service" className="tf-btn style-9 small">
 										Get In Touch
 										<i className="icon-chevron-right" />
@@ -85,7 +85,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, handle
 										<span className="dot" />
 										<span className="dot" />
 									</div>
-								</div>
+								</div> */}
 							</div>
 							<div className={isMobileMenu ? "mobile-nav-wrap active" : "	mobile-nav-wrap"}>
 								<div className="overlay-mobile-nav" onClick={handleMobileMenu} />

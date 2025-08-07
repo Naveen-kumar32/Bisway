@@ -68,20 +68,20 @@ export default function Footer3() {
 							<div className="footer-inner">
 								<div className="footer-inner-wrap">
 									<div className="logo-site">
-										<Link href="/">
+										{/* <Link href="/">
 											<img
 												width="0"
 												height="0"
 												sizes="100vw"
 												style={{ width: "100%", height: "auto" }}
 												id="logo_footer" data-retina="./images/logo/logo-3@2x.png" src="/images/logo/logo-3.png" alt="" />
-										</Link>
+										</Link> */}
 									</div>
 									{/* <p className="text mb-70">
 										Consulting agency serves strategic businesses looking
 										overcome.
 									</p> */}
-									<ul className="social-list">
+									{/* <ul className="social-list">
 										<li>
 											<Link href="/#">
 												<i className="icon-facebook" />
@@ -102,7 +102,7 @@ export default function Footer3() {
 												<i className="icon-youtube" />
 											</Link>
 										</li>
-									</ul>
+									</ul> */}
 								</div>
 								<div className="footer-inner-wrap s1">
 									<div className={`wrap footer-col-block  ${isAccordion1 === 1 ? 'open' : ''}`}>
@@ -173,10 +173,8 @@ Nadu 600107
 									<i className="icon-arrow-top fs-8" />
 								</Link>
 								<p className="no-copy style-2">
-									Copyright © {new Date().getFullYear()} <span> Bisway </span> by
-									<Link href="https://themeforest.net/user/themesflat" target="_blank">
-										Themesflat
-									</Link>
+									Copyright © {new Date().getFullYear()} <span> Bisway </span>
+									
 									, All Rights Reserved.
 								</p>
 								<div className="policy-list">

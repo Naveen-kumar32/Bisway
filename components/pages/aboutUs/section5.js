@@ -182,15 +182,15 @@ export default function Section5() {
 									<div className="swiper-wrapper">
 										<SwiperSlide>
 											<div className="image">
-												{/* <img
-													width="0"
-													height="0"
-													sizes="100vw"
-													style={{ width: "100%", height: "auto" }}
-													src="/images/section/testimonial-thumbs.jpg" data-src="/images/section/testimonial-thumbs.jpg" alt="" className="lazyload" /> */}
-											<div style={{height:'450px',width:'100%',padding:'10px',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
+												<img
+											width="0"
+											height="0"
+											sizes="100vw"
+											style={{ width: "100%", height: "auto" }}
+											src="/images/section/aboutus-4.jpg" data-src="/images/section/aboutus-4.jpg" alt="" className="lazyload tf-animate-2" />
+								{/* <div style={{height:'450px',width:'100%',padding:'10px',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
 														Image Here
-										</div>
+										</div> */}
 											</div>
 										</SwiperSlide>
 										<SwiperSlide>

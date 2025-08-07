@@ -23,15 +23,14 @@ export default function Section1() {
 									</span>
 								</p>
 								<div className="image">
-									{/* <img
-										width="0"
-										height="0"
-										sizes="100vw"
-										style={{ width: "100%", height: "auto" }}
-										src="/images/section/about-6.jpg" data-src="/images/section/about-6.jpg" alt="" className="lazyload" /> */}
-								<div style={{height:'600px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
-														Image Here
-										</div>
+									<img
+											width="0"
+											height="0"
+											sizes="100vw"
+											style={{ width: "100%", height: "auto" }}
+											src="/images/section/aboutus-1.jpg" data-src="/images/section/aboutus-1.jpg" alt="" className="lazyload tf-animate-2" />
+								
+								
 								</div>
 							</div>
 						</div>
@@ -41,20 +40,19 @@ export default function Section1() {
 									{/* <div className="odometer style-4"><CounterUp count={10} /></div> */}
 									{/* <span className="sub-odo">+</span> */}
 								</div>
-								<p className="sub-counter text-white font-main-2 fw-5 fs-20 mb-70 mt-5">
+								{/* <p className="sub-counter text-white font-main-2 fw-5 fs-20 mb-70 mt-5">
 									Years Of Experience In Business Consulting
-								</p>
+								</p> */}
 								<div className="image mb-30 tf-hover">
 									<div className="hover-1">
-										{/* <img
+										<img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height: "auto" }}
-											src="/images/section/about-7.jpg" data-src="/images/section/about-7.jpg" alt="" className="lazyload tf-animate-2" /> */}
-									<div style={{height:'250px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
-														Image Here
-										</div>
+											src="/images/section/aboutus-2.jpg" data-src="/images/section/aboutus-2.jpg" alt="" className="lazyload tf-animate-2" />
+								
+									
 									</div>
 								</div>
 								<p className="text text-white mb-40">

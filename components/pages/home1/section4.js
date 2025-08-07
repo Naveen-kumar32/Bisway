@@ -92,16 +92,14 @@ export default function Section4() {
 										</div>
 										<div className="image tf-hover">
 											<div className="hover-1">
-												<div style={{height:'400px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
-														Image Here
-										</div>
-												{/* <img
-													width="0"
-													height="0"
-													sizes="100vw"
-													style={{ width: "100%", height: "auto" }}
-													src="/images/widget/accordion-type-3.jpg" data-src="/images/widget/accordion-type-3.jpg" alt="" className="lazyload" />
-											 */}
+												
+												<img
+											width="0"
+											height="0"
+											sizes="100vw"
+											style={{ width: "100%", height: "auto" }}
+											src="/images/section/home-2.jpg" data-src="/images/section/home-2.jpg" alt="" className="lazyload tf-animate-2" />
+									
 											</div>
 										</div>
 									</div>
@@ -170,16 +168,14 @@ export default function Section4() {
 										</div>
 										<div className="image tf-hover">
 											<div className="hover-1">
-												<div style={{height:'400px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
-														Image Here
-										</div>
-												{/* <img
-													width="0"
-													height="0"
-													sizes="100vw"
-													style={{ width: "100%", height: "auto" }}
-													src="/images/widget/accordion-type-3-2.jpg" data-src="/images/widget/accordion-type-3-2.jpg" alt="" className="lazyload" />
-											 */}
+												
+												<img
+											width="0"
+											height="0"
+											sizes="100vw"
+											style={{ width: "100%", height: "auto" }}
+											src="/images/section/home-3.jpg" data-src="/images/section/home-3.jpg" alt="" className="lazyload tf-animate-2" />
+									
 											</div>
 										</div>
 									</div>
@@ -248,16 +244,14 @@ export default function Section4() {
 										</div>
 										<div className="image tf-hover">
 											<div className="hover-1">
-												<div style={{height:'400px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
-														Image Here
-										</div>
-												{/* <img
-													width="0"
-													height="0"
-													sizes="100vw"
-													style={{ width: "100%", height: "auto" }}
-													src="/images/widget/accordion-type-3-3.jpg" data-src="/images/widget/accordion-type-3-3.jpg" alt="" className="lazyload" />
-											 */}
+												
+												<img
+											width="0"
+											height="0"
+											sizes="100vw"
+											style={{ width: "100%", height: "auto" }}
+											src="/images/section/home-4.jpg" data-src="/images/section/home-4.jpg" alt="" className="lazyload tf-animate-2" />
+									
 											</div>
 										</div>
 									</div>
@@ -326,16 +320,14 @@ export default function Section4() {
 										</div>
 										<div className="image tf-hover">
 											<div className="hover-1">
-												<div style={{height:'400px',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
-														Image Here
-										</div>
-												{/* <img
-													width="0"
-													height="0"
-													sizes="100vw"
-													style={{ width: "100%", height: "auto" }}
-													src="/images/widget/accordion-type-3-4.jpg" data-src="/images/widget/accordion-type-3-4.jpg" alt="" className="lazyload" />
-											 */}
+												
+												<img
+											width="0"
+											height="0"
+											sizes="100vw"
+											style={{ width: "100%", height: "auto" }}
+											src="/images/section/home-5.jpg" data-src="/images/section/home-5.jpg" alt="" className="lazyload tf-animate-2" />
+									
 											</div>
 										</div>
 									</div>

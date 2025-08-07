@@ -62,10 +62,10 @@ Nadu 600107
 												<textarea className="h-100px" placeholder="Write message" />
 											</fieldset>
 										</div>
-										<button type="submit" className="tf-btn full text-anime-style-1">
+										{/* <button type="submit" className="tf-btn full text-anime-style-1">
 											Get Consultation
 											<i className="icon-chevron-right" />
-										</button>
+										</button> */}
 									</form>
 								</div>
 							</div>
@@ -77,3 +77,4 @@ Nadu 600107
 		</>
 	)
 }
+

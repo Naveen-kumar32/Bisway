@@ -58,14 +58,14 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 						<div className="col-lg-12">
 							<div className="header-inner">
 								<div className="header-left">
-									<div className="logo-site">
+									{/* <div className="logo-site">
 										<Link href="/">
 											<img
 												width="139"
 													height="39"
 												id="logo_header" src="/images/logo/logo.png" data-retina="./images/logo/logo@2x.png" alt="" />
 										</Link>
-									</div>
+									</div> */}
 								</div>
 								<div className="header-center">
 									<nav className="main-nav">
@@ -73,7 +73,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 									</nav>
 								</div>
 								<div className="header-right">
-									<Link href="/contact" className="tf-btn small">
+									{/* <Link href="/contact" className="tf-btn small">
 										Get In Touch
 										<i className="icon-chevron-right" />
 									</Link>
@@ -86,13 +86,13 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 										<span className="dot" />
 										<span className="dot" />
 										<span className="dot" />
-									</div>
+									</div> */}
 								</div>
 							</div>
 							<div className={isMobileMenu ? "mobile-nav-wrap active" : "	mobile-nav-wrap"}>
 								<div className="overlay-mobile-nav" onClick={handleMobileMenu} />
 								<div className="inner-mobile-nav overflow-y-auto">
-									<div className="top">
+									{/* <div className="top">
 										<div className="logo">
 											<Link href="/" rel="home" className="main-logo">
 												<img
@@ -109,8 +109,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 										<nav id="mobile-main-nav" className="mobile-main-nav">
 											<MobileMenu />
 										</nav>
-									</div>
-									<div className="bottom">
+									</div> */}
+									{/* <div className="bottom">
 										<div className="wrap">
 											<p className="title">
 												Contact Us
@@ -161,7 +161,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 												</li>
 											</ul>
 										</div>
-									</div>
+									</div> */}
 								</div>
 							</div>
 						</div>

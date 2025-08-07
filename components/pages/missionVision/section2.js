@@ -12,18 +12,19 @@ export default function Section2() {
 					<div className="col-lg-12">
 						<div className="content">
 							<div className="bg-image">
-								{/* <div className="rellax type-2" style={{
-									backgroundAttachment: "fixed", 
+								<div className="rellax type-2" style={{
+									// backgroundAttachment: "fixed", 
 									backgroundPosition: "center", 
 									backgroundSize: "cover", 
-									backgroundImage: "url(/images/section/mission-2.jpg)",
+									backgroundImage: "url(/images/section/home-8.jpg)",
 									width: "100%",
 									height: "100%",
 									}}>
-								</div> */}
-								<div style={{height:'100%',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
+								</div>
+									
+								{/* <div style={{height:'100%',width:'100%',backgroundColor:'black',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'50px',fontWeight:'700',color:'#ffcd4c'}}>
 														Image Here
-										</div>
+										</div> */}
 							</div>
 						</div>
 					</div>

@@ -44,7 +44,7 @@ export default function Section1() {
 												height="0"
 												sizes="100vw"
 												style={{ width: "100%", height: "100%" }}
-												src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
+												src="/images/section/service-1.jpg" data-src="/images/section/service-1.jpg" alt="" className="lazyload" />
 										</Link>
 									</div>
 								</div>
@@ -68,7 +68,7 @@ export default function Section1() {
 												height="0"
 												sizes="100vw"
 												style={{ width: "100%", height: "100%" }}
-												src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
+												src="/images/section/service-2.jpg" data-src="/images/section/service-2.jpg" alt="" className="lazyload" />
 										</Link>
 									</div>
 								</div>
@@ -93,7 +93,7 @@ export default function Section1() {
 												height="0"
 												sizes="100vw"
 												style={{ width: "100%", height: "100%" }}
-												src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
+												src="/images/section/service-3.jpg" data-src="/images/section/servie-3.jpg" alt="" className="lazyload" />
 										</Link>
 									</div>
 								</div>

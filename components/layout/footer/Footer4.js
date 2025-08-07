@@ -64,8 +64,8 @@ export default function Footer4() {
 										With Bisways, business growth becomes predictable and purposeful.
 
 									</p>
-									<Link href="/service-details" className="tf-btn text-anime-style-1">Get
-										Consultation <i className="icon-chevron-right" /></Link>
+									{/* <Link href="/service-details" className="tf-btn text-anime-style-1">Get
+										Consultation <i className="icon-chevron-right" /></Link> */}
 								</div>
 							</div>
 						</div>
@@ -178,7 +178,7 @@ Nadu 600107
 											<li>
 												<Link href="/faqs">Clients Feedback</Link>
 											</li> */}
-											<li><Link href="/contact">Contact Us</Link></li>
+											{/* <li><Link href="/contact">Contact Us</Link></li> */}
 										</ul>
 									</div>
 								</div>
@@ -189,7 +189,7 @@ Nadu 600107
 										<i className="icon-arrow-top fs-8"> </i>
 									</Link>
 									<div className="policy-list">
-										<ul className="list">
+										{/* <ul className="list">
 											<li>
 												<Link href="/faqs"> Privacy Policy </Link>
 											</li>
@@ -199,9 +199,9 @@ Nadu 600107
 											<li>
 												<Link href="/faqs"> Support </Link>
 											</li>
-										</ul>
+										</ul> */}
 									</div>
-									<div className="social">
+									{/* <div className="social">
 										<p>Follow Us</p>
 										<div className="icon">
 											<i className="icon-Arrow-3" />
@@ -228,7 +228,7 @@ Nadu 600107
 												</Link>
 											</li>
 										</ul>
-									</div>
+									</div> */}
 								</div>
 							</div>
 						</div>
@@ -239,10 +239,8 @@ Nadu 600107
 						<div className="row">
 							<div className="col-12">
 								<p className="no-copy">
-									Copyright © {new Date().getFullYear()} <span> Bisway </span> by
-									<Link href="https://themeforest.net/user/themesflat" target="_blank">
-										Themesflat
-									</Link>
+									Copyright © {new Date().getFullYear()} <span> Bisway </span>
+									
 									, All Rights Reserved.
 								</p>
 							</div>

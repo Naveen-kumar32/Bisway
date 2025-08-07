@@ -159,10 +159,8 @@ Nadu 600107
 									<i className="icon-arrow-top fs-8" />
 								</Link>
 								<p className="no-copy style-2">
-									Copyright © {new Date().getFullYear()} <span> Bisway </span> by
-									<Link href="https://themeforest.net/user/themesflat" target="_blank">
-										Themesflat
-									</Link>
+									Copyright © {new Date().getFullYear()} <span> Bisway </span>
+									
 									, All Rights Reserved.
 								</p>
 								<div className="policy-list">

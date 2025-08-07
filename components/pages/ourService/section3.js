@@ -29,7 +29,7 @@ export default function Section3() {
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height : "350px" }}
-											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
+											src="/images/section/service-a.jpg" data-src="/images/section/service-a.jpg" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -54,7 +54,7 @@ export default function Section3() {
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height : "350px" }}
-											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
+											src="/images/section/service-b.jpg" data-src="/images/section/service-b.jpg" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -79,7 +79,7 @@ export default function Section3() {
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height : "350px" }}
-											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
+											src="/images/section/service-c.jpg" data-src="/images/section/service-c.jpg" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -107,7 +107,7 @@ export default function Section3() {
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height : "350px" }}
-											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
+											src="/images/section/service-d.jpg" data-src="/images/section/service-d.jpg" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -128,13 +128,13 @@ Our team ensures accurate filings.
 									</div>
 								</div>
 								<div className="card-service-2 tf-hover ">
-									<div className="image hover-1 hover-14">
+									<div className="image hover-1 hover-14" >
 										<img
 											width="0"
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height : "350px" }}
-											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
+											src="/images/section/service-e.jpg" data-src="/images/section/service-e.jpg" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">
@@ -160,7 +160,7 @@ Our team ensures accurate filings.
 											height="0"
 											sizes="100vw"
 											style={{ width: "100%", height : "350px" }}
-											src="/images/section/s-about.png" data-src="/images/section/s-about.png" alt="" className="lazyload" />
+											src="/images/section/service-f.jpg" data-src="/images/section/service-f.jpg" alt="" className="lazyload" />
 									</div>
 									<div className="content">
 										<div className="icon">

@@ -22,6 +22,7 @@ export default function Home1() {
 			{/* <Section6 /> */}
 			<Section7 />
 			{/* <Section8 /> */}
+			<br/>
 			<Section9 />
 			{/* <Section10 /> */}
 			{/* <Section11 /> */}
